@@ -1,0 +1,10 @@
+{
+  "name": "hpw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lab01/scalar-types1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true
+}
