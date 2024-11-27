@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a81bc8b5-472e-4c82-98f9-0fb971f0e29d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lab03/1-random.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab03/2-key.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab03/3-ip.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab03/4-methods.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a81bc8b5-472e-4c82-98f9-0fb971f0e29d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "lestaplus"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/lestaplus/hpw.git",
+    "accountId": "b499d329-669d-422c-bce2-de053857914a"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/lab01/scalar-types1.js" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -38,29 +44,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Node.js.1-random.js.executor": "Run",
-    "Node.js.2-key.js.executor": "Run",
-    "Node.js.3-ip.js.executor": "Run",
-    "Node.js.4-methods.js.executor": "Run",
-    "Node.js.data-types1.js.executor": "Run",
-    "Node.js.data-types2.js.executor": "Run",
-    "Node.js.index.js.executor": "Run",
-    "Node.js.scalar-types.js.executor": "Run",
-    "Node.js.scalar-types1.js.executor": "Run",
-    "Node.js.scalar-types2.js.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.keymap",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Node.js.1-random.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.2-key.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.3-ip.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.4-methods.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.data-types1.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.data-types2.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.index.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.scalar-types.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.scalar-types1.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.scalar-types2.js.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\KPI\hpw" />
@@ -91,6 +97,7 @@
       <workItem from="1731153567374" duration="6742000" />
       <workItem from="1731168841859" duration="422000" />
       <workItem from="1731250228222" duration="1560000" />
+      <workItem from="1732741058155" duration="19000" />
     </task>
     <servers />
   </component>
