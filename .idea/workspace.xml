@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a81bc8b5-472e-4c82-98f9-0fb971f0e29d" name="Changes" comment="" />
+    <list default="true" id="a81bc8b5-472e-4c82-98f9-0fb971f0e29d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lab06/1-pipe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab06/2-compose.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,18 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "lestaplus"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;lestaplus&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/lestaplus/hpw.git",
-    "accountId": "b499d329-669d-422c-bce2-de053857914a"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/lestaplus/hpw.git&quot;,
+    &quot;accountId&quot;: &quot;b499d329-669d-422c-bce2-de053857914a&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/lab01/scalar-types1.js" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -46,7 +50,11 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Node.js.1-pipe.js.executor&quot;: &quot;Run&quot;,
     &quot;Node.js.1-random.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.1-seq.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.2-array.js.executor&quot;: &quot;Run&quot;,
+    &quot;Node.js.2-compose.js.executor&quot;: &quot;Run&quot;,
     &quot;Node.js.2-key.js.executor&quot;: &quot;Run&quot;,
     &quot;Node.js.3-ip.js.executor&quot;: &quot;Run&quot;,
     &quot;Node.js.4-methods.js.executor&quot;: &quot;Run&quot;,
@@ -98,6 +106,11 @@
       <workItem from="1731168841859" duration="422000" />
       <workItem from="1731250228222" duration="1560000" />
       <workItem from="1732741058155" duration="19000" />
+      <workItem from="1732741095655" duration="447000" />
+      <workItem from="1733069665808" duration="3422000" />
+      <workItem from="1733157386453" duration="2431000" />
+      <workItem from="1733174609846" duration="669000" />
+      <workItem from="1733231422240" duration="4746000" />
     </task>
     <servers />
   </component>
